@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab");
+
+body{
+	margin:0;
+	background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9757d496-239b-46c5-baea-6873cbfe9b3d/dea3khe-e2b15a41-783e-4805-b6bb-6afc42fbe290.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Roboto Slab', serif;
+}
+/*Navegacion*/
+nav{
+	font-family: 'Roboto Slab', serif;
+	width: 40%;
+	margin-left: 20px;
+
+}
+nav a{
+	text-decoration: none;
+	font-family: 'Roboto Slab', serif;
+	color: #00FFF7;
+	transition-duration: 4s;
+	cursor: pointer;
+}
+
+nav ul{
+	text-decoration: none;
+	list-style: none;
+}
+nav li{
+	display: inline-block;
+	padding: 15px;
+	border-bottom:1px solid #5d2de1;
+	border-right: 1px solid #5d2de1;
+}
+
+nav li:hover{
+	transition-duration: 1.2s;
+	background-color: #5d2de1;
+}
+
+/*Registro*/
+div{
+	width: 20%;
+	height: 20%;
+	background: rgb(0, 0, 0,0.8);
+	font-size: 18px;
+	padding-top: 10px;
+	margin-left: 68%;
+	margin-top: 12%;
+	text-align: center;
+	color: #FEFFDD;
+}
+
+h2{
+	margin: 0;
+}
+p{
+	margin: 0 auto;
+	padding: 10px;
+	text-decoration: none;
+	text-align: justify;
+	padding-left: 50px;
+}
+
+input{
+	background-image: linear-gradient(to bottom right,rgb(77,77,12,0.3) ,rgb(155,85,0,0.8));
+	border: none;
+	border-radius: 10px;
+}
+
+button{
+  background: rgb(0,0,0,0.9);
+  color: #841111;
+  border: none;
+}
