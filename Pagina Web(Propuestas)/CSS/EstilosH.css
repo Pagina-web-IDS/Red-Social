@@ -1,0 +1,181 @@
+/*
+Colores
+#33334B
+#5D2DE1
+#929498
+*/
+/*Letras*/
+@import url("https://fonts.googleapis.com/css2?family=Text+Me+One");
+
+/*Animaciones*/
+@keyframes mymove {
+  from {text-shadow: 0px 0px 0px #27273e;}
+  to {text-shadow: 0px 0px 8px #5d2de1;}
+}
+
+body{
+	margin: 0;
+	background: #27273e;
+	font-family: "Roboto";
+}
+
+/* Pie de Pagina*/
+
+nav{
+	background: #27273e;
+	margin: 0 auto;
+	border-bottom: solid 1px #5d2de1;
+	display: block;
+	height: 55px;
+	padding-top: 10px;
+}
+
+nav ul{
+	list-style: none;
+	margin: 0 auto;
+	width: 100%;
+	padding: 0;
+}
+
+nav ul li{
+	display: inline-block;
+}
+nav a{
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	color: #929498;
+	font-weight: bold;
+}
+
+#PiePage li:last-child{
+	text-align: left;
+}
+
+#PiePage{
+
+}
+
+#Logo{
+	width: 10%;
+	text-align: center;
+	position: absolute;
+}
+
+#Search input{
+	border-radius: 15px;
+	background: #33334B;
+	width: 400px;
+	border: solid 1px #5d2de1;
+	position: absolute;
+	margin-left: 20%;
+	color: #929498;
+	padding: 5px;
+	vertical-align: top;
+}
+.Navegacion{
+	text-align: right;
+	width: 20%;
+	position: absolute;
+	margin-left: 60%;
+}
+
+.Navegacion a{
+	animation: mymove 5s infinite;
+  	animation-direction: alternate-reverse;
+  	display: inline-block;
+  	font-family: Helvetica;
+}
+
+.Navegacion ul{
+	width: 500px;
+	text-align: right;
+}
+
+/* Menu */
+section{
+	margin: 0 auto;
+	display: inline-block;
+	margin-top: 20px;
+	vertical-align: top;
+}
+section h2{
+	padding-left: 15px;
+	font-family: 'Text Me One', sans-serif;
+}
+
+/*Apartado de Juegos*/
+#MyGames{
+	width: 20%;
+}
+
+.Juegos{
+	letter-spacing: 0.1em;
+	color: #929498;
+	width: 90%;
+	line-height: 29px;
+	border-bottom: solid 3px #5d2de1;
+}
+/* Publicaciones y Comentarios*/
+#Social{
+	width: 60%;
+}
+.Npub{
+	margin: 20px;
+	border-radius: 10px;
+	background: #33334B;
+	margin-right: 60px;
+	border: solid 1px #5d2de1;
+	height: 80px;
+}
+
+
+.Npub div{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#foto{
+	margin: 20px;
+	height: 40px;
+	width: 40px;
+	background: white;
+	border-bottom-left-radius: 50%; 
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+
+.Publicacion{
+	padding-top: 10px;
+	margin: 20px;
+	margin-right: 60px;
+	height: 20px;
+	border-radius: 10px;
+	background: #33334B;
+	border: solid 1px #5d2de1;
+}
+/* Amigos o grupos*/
+#Estado{
+	width: 20%;
+}
+
+.Grupos{
+	margin: 5px;
+	border-radius: 10px;
+	background: #141029;
+	border: solid 1px #5d2de1;
+	color: #929498;
+}
+
+.Amigos{
+	color: #929498;
+	margin: 5px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background: #141029;
+	border: solid 1px #5d2de1;
+
+}
+
+
