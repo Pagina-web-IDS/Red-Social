@@ -2,6 +2,6 @@
 Proyecto escolar
 
 
-Crearemos una Red Social con tematica Gamer
-Tambien se tendra tu propio perfil en el cual estara nombre, foto, una pequeña biografia entre otras cosas.
-En tu perfil podras subir videos de tus jugadas, comentarios, memes entre otras cosas. 
+Crearemos una red social con el fin de entender su procedimiento y funcionalidad.
+
+En ella podremos registranos, iniciar sesion, enviar mensajes, seguir a los usuarios, entre otras cosas.
