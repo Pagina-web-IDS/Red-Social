@@ -1,4 +1,4 @@
-# Red-Social-Gamer
+# Red-Social
 Proyecto escolar
 
 
