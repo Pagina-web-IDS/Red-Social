@@ -1,3 +1,2 @@
-# Red-Social-Gamer
-	Base de Datos
-		Aqui se archivaran las versiones de tablas de nuestra base de datos en sus diferentes versiones
+# Red-Social
+	Codigo del frontend y backend del proyecto final.
