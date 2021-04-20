@@ -8,13 +8,13 @@ En ella podremos registranos, iniciar sesion, enviar mensajes, seguir a los usua
 
 Documentación: Ubicado en la rama **Otium**.
 ```
-  •	Documento de visión.
+  •	Documento de visión
 
-  •	Casos de uso.
+  •	Casos de uso
 
-  •	Diagrama Pert y Gantt.
+  •	Diagrama Pert y Gantt
 
-  •	Diagramas UML.
+  •	Diagramas UML
 ```
 Versiones de Base de datos: Ubicado en la rama **Base de datos**.
 ```
@@ -22,9 +22,9 @@ Versiones de Base de datos: Ubicado en la rama **Base de datos**.
 ```
 Versiones de Pagina Web: Ubicado en la rama **Pagina Web**.
 ```
-  •	Imágenes de versiones.
+  •	Imágenes de versiones
 
-  •	Código de algunas versiones.
+  •	Código de algunas versiones
 ```
 Codigo Actual de la pagina: Ubicado en codigo **Final**
 ```
