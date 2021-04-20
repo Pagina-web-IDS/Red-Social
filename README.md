@@ -16,17 +16,17 @@ Documentación: Ubicado en la rama **Otium**.
 
   •	Diagramas UML
 ```
-Versiones de Base de datos: Ubicado en la rama **Base de datos**.
+Versiones de Base de datos: Ubicado en la rama **Base-de-datos**.
 ```
   •	Diagramas de versiones
 ```
-Versiones de Pagina Web: Ubicado en la rama **Pagina Web**.
+Versiones de Pagina Web: Ubicado en la rama **Pagina-Web**.
 ```
   •	Imágenes de versiones
 
   •	Código de algunas versiones
 ```
-Codigo Actual de la pagina: Ubicado en codigo **Final**
+Codigo Actual de la pagina: Ubicado en **Codigo-Final**
 ```
   •	Link del repositorio hacia el código Final para la ejecución 
 ```
