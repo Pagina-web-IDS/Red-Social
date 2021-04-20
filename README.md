@@ -74,6 +74,14 @@ Abrir el servidor Mongo.
 
 ![image](https://user-images.githubusercontent.com/77498360/115335089-24ba7b00-a162-11eb-85a5-c6fd2ed46e9d.png)
 
+Este proceso es para la primera vez en ejecutar el Proyecto.
+Despues solo se deben ejecutar estos comandos en su respectivo directorio:
+```
+•	npm start
+•	ng serve
+•	mongod
+```
+
 
 # **Video: Funcionalidad de Otium**
 link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
