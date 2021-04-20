@@ -28,7 +28,7 @@ Versiones de Pagina Web: Ubicado en la rama **Pagina Web**.
 ```
 Codigo Actual de la pagina: Ubicado en codigo **Final**
 ```
-  •	Código Final para la ejecución 
+  •	Link del repositorio hacia el código Final para la ejecución 
 ```
 
 # **Requisitos para la correcta ejecución**
