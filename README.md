@@ -31,7 +31,7 @@ Codigo Actual de la pagina: Ubicado en **Codigo-Final**
   •	Link del repositorio hacia el código Final para la ejecución 
 ```
 
-# **Requisitos para la correcta ejecución**
+## **Requisitos para la correcta ejecución**
 ```
 Instalar:
 
@@ -42,7 +42,7 @@ Instalar:
 •	MongoDB
 ```
 
-# **Como ejecutar**
+## **Como ejecutar**
 
 Abrir la carpeta Backend desde el cmd.
 
@@ -78,5 +78,24 @@ Abrir el servidor Mongo.
 # **Video: Funcionalidad de Otium**
 link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
+
 # **Notas para el Uso de la _Red Social_**
+
+### **Registrarse**
+```
+•	Todos los campos deben llenarse
+
+•	No se aceptan Nicks iguales
+
+•	El correo debe ser valido
+
+  - No iniciar con mayúsculas
+  - Tener un provedor
+  - No usar caracteres especiales
+```
+![image](https://user-images.githubusercontent.com/77498360/115337328-65b48e80-a166-11eb-927a-d390aede7826.png)
+
+### ****
+
+
 
