@@ -78,3 +78,5 @@ Abrir el servidor Mongo.
 # **Video: Funcionalidad de Otium**
 link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
+# **Notas para el Uso de la _Red Social_**
+
