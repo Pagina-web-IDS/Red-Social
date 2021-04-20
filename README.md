@@ -83,19 +83,16 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 ### **Registrarse**
 ```
-•	Todos los campos deben llenarse
-
-•	No se aceptan Nicks iguales
-
-•	El correo debe ser valido
-
+- Todos los campos deben llenarse
+- No se aceptan Nicks y correos iguales
+- El correo debe ser valido
   - No iniciar con mayúsculas
   - Tener un provedor
   - No usar caracteres especiales
 ```
 ![image](https://user-images.githubusercontent.com/77498360/115337328-65b48e80-a166-11eb-927a-d390aede7826.png)
 
-### ****
+
 
 
 
