@@ -83,9 +83,9 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 ### **Registrarse**
 ```
-- Todos los campos deben llenarse
-- No se aceptan Nicks y correos iguales
-- El correo debe ser valido
+• Todos los campos deben llenarse
+• No se aceptan Nicks y correos iguales
+• El correo debe ser valido
   - No iniciar con mayúsculas
   - Tener un provedor
   - No usar caracteres especiales
