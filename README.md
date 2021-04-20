@@ -1,4 +1,4 @@
-# Red-Social
+# Red-Social (Manual de Usuario)
 Proyecto escolar
 
 
