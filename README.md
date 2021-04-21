@@ -116,7 +116,8 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 • Podemos Ingresar a unestro perfil desde la pestaña **Home** al darle click sobre el recuadro Titulado: **Mi perfil**
 
-![image](https://user-images.githubusercontent.com/77498360/115628649-90b5f400-a2c6-11eb-99ef-71362cc6aa72.png)
+![1](https://user-images.githubusercontent.com/77498360/115629107-4c772380-a2c7-11eb-8f6b-b7d6e211471d.png)
+
 
 
 
