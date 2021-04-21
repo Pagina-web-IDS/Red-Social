@@ -101,6 +101,24 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 ![image](https://user-images.githubusercontent.com/77498360/115337328-65b48e80-a166-11eb-927a-d390aede7826.png)
 
 
+### **Iniciar sesión**
+
+```
+• Todos los campos son obligatrios
+• Ingresar un Email ya registrado
+• Ingresar correctamente la contraseña del usuario
+![image](https://user-images.githubusercontent.com/77498360/115628262-01104580-a2c6-11eb-841d-ba12a62ef684.png)
+• Una vez realizado lo anterior hacer click en Enviar
+![image](https://user-images.githubusercontent.com/77498360/115628410-37e65b80-a2c6-11eb-83e9-6ad11c76d53f.png)
+```
+
+### ***Perfil***
+
+• Podemos Ingresar a unestro perfil desde la pestaña **Home** al darle click sobre el recuadro Titulado: **Mi perfil**
+
+![image](https://user-images.githubusercontent.com/77498360/115628649-90b5f400-a2c6-11eb-99ef-71362cc6aa72.png)
+
+
 
 
 
