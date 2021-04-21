@@ -112,11 +112,54 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 ![image](https://user-images.githubusercontent.com/77498360/115628410-37e65b80-a2c6-11eb-83e9-6ad11c76d53f.png)
 ```
 
-### ***Perfil***
+### **Perfil**
 
 • Podemos Ingresar a unestro perfil desde la pestaña **Home** al darle click sobre el recuadro Titulado: **Mi perfil**
 
 ![1](https://user-images.githubusercontent.com/77498360/115629107-4c772380-a2c7-11eb-8f6b-b7d6e211471d.png)
+
+• En este apartado se podrán ver el número de seguidores que tengas, número de publicaciones y número de publicaciones tuyas en tiempo real
+
+• Se podra ver tu **Nombre**, **Apellido** y **Estado actual**
+
+![image](https://user-images.githubusercontent.com/77498360/115629243-9d871780-a2c7-11eb-9ebe-8709f7cf7bdc.png)
+
+• Abajo del apartado de arriba se encontrarán todas las **Publicaciones** que has publicado (No aplican publicaciones eliminadas)
+
+![image](https://user-images.githubusercontent.com/77498360/115629611-52b9cf80-a2c8-11eb-9e67-f79b1764693d.png)
+
+
+• En la parte derecha se encontrara el apartado nombrado **Tus Datos** en el cual es un resumen de tu perfil ademas de tener el apartado para **Publicar**
+
+![image](https://user-images.githubusercontent.com/77498360/115629977-e7bcc880-a2c8-11eb-8283-1dcc4bb09abb.png)
+
+### **Editar tus datos de Perfil**
+
+• Sobre la barra de navegacion ubicada en la parte superior derecha de la pagina dar **click sobre tu nombre**
+
+![2](https://user-images.githubusercontent.com/77498360/115630475-ad9ff680-a2c9-11eb-93e3-cfad2f23c86b.png)
+
+• Se desplegara una barra donde daremos click nuevamente sobre **Mis Datos**
+
+![3](https://user-images.githubusercontent.com/77498360/115630715-1d15e600-a2ca-11eb-8d9f-e15c1d7f1ce0.png)
+
+• En este apartado podrás actualizar tu **Nombre**, **Apellido**, **Nick**, **Email** y configurar tu **Estado Actual**
+
+![image](https://user-images.githubusercontent.com/77498360/115630765-36b72d80-a2ca-11eb-98b2-ac40aabb261a.png)
+
+• Cualquier cambio sobre tus datos se guardarán después de dar click sobre **Actualizar*
+
+![tempsnip](https://user-images.githubusercontent.com/77498360/115631043-b34a0c00-a2ca-11eb-8820-23178f582388.png)
+
+### **Publicar**
+
+• Para publicar primero debemos estar en el Apartado **Tus Datos**, ubicado en **Mi perfil**, **Timeline** y **Gente**
+
+![image](https://user-images.githubusercontent.com/77498360/115631280-218ece80-a2cb-11eb-9b44-63c1827bf064.png)
+
+• Estando en el apartado mencionado, en la parte inferior de este se podrá ver una parte llamada **Publicar**
+
+![image](https://user-images.githubusercontent.com/77498360/115631338-3b301600-a2cb-11eb-8483-ce742ecf457b.png)
 
 
 
