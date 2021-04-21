@@ -210,3 +210,12 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 ![image](https://user-images.githubusercontent.com/77498360/115634638-a1b73300-a2cf-11eb-8ed9-de09738293e8.png)
 
+### **Cerrar sesión**
+
+• Dar click sobre nuestro nombre en la barra de navegación y dar click nuevamente en **Cerrar Sesion**
+
+![image](https://user-images.githubusercontent.com/77498360/115634925-30c44b00-a2d0-11eb-8d6b-d459f2cd3473.png)
+
+
+
+
