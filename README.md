@@ -158,11 +158,55 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 ![image](https://user-images.githubusercontent.com/77498360/115631280-218ece80-a2cb-11eb-9b44-63c1827bf064.png)
 
 • Estando en el apartado mencionado, en la parte inferior de este se podrá ver una parte llamada **Publicar**
+• Para publicar es obligatorio ingresar algun texto en el recuadro del mismo
 
-![image](https://user-images.githubusercontent.com/77498360/115631338-3b301600-a2cb-11eb-8483-ce742ecf457b.png)
+![image](https://user-images.githubusercontent.com/77498360/115631551-aaa60580-a2cb-11eb-8390-a717a490378b.png)
+
+• Al finalizar para guardar la publicación solo es darle click sobre el boton **Publicar**
+
+![4](https://user-images.githubusercontent.com/77498360/115631865-46d00c80-a2cc-11eb-90ee-e3ef9a9ab762.png)
+
+### **Seguir Usuario**
+
+• En la barra de navegación dar click sobre **Gente**
+
+![image](https://user-images.githubusercontent.com/77498360/115632127-b34b0b80-a2cc-11eb-810f-0ec319af5a31.png)
+
+• Para encontrar a tu amig@ debes navegar con los botones **<<Anterior** y **Siguiente>>**
+
+![image](https://user-images.githubusercontent.com/77498360/115632140-b9d98300-a2cc-11eb-990e-4e03e7fdc1b8.png)
+
+• Al encontrar a tu amig@ solo debes dar click en **Seguir**
+
+![image](https://user-images.githubusercontent.com/77498360/115632354-25bbeb80-a2cd-11eb-8cd8-f83a95db76ff.png)
 
 
+### **Mensajes**
+
+• En la barra de navegación dar click sobre **Mensajes**
+
+![image](https://user-images.githubusercontent.com/77498360/115632476-6ca9e100-a2cd-11eb-8943-eb3d145f05d6.png)
+
+• Para enviar un mensaje debemos dar click sobre **Enviar Mensajes**
+
+![5](https://user-images.githubusercontent.com/77498360/115632532-8d723680-a2cd-11eb-8606-1e910ead9cbc.png)
+
+• Debemos seleccionar un destinatario en la opción **Para**. Al dar click sobre **Para** se desplegará una barra ahí se debe buscar el destinatario
+
+• Después se debe escribir el mensaje en su respectivo apartado y dar click en enviar
+
+![image](https://user-images.githubusercontent.com/77498360/115634381-23f32780-a2cf-11eb-99e1-29a0712ff582.png)
+
+• Para ver los **Mensajes Enviados**, dar click en **Mensajes Enviados** 
+
+![6](https://user-images.githubusercontent.com/77498360/115634725-c6aba600-a2cf-11eb-9bea-8bd286d3bc08.png)
 
 
+![image](https://user-images.githubusercontent.com/77498360/115634547-6f0d3a80-a2cf-11eb-8b4c-a5430480f5ab.png)
 
+• Para ver los **Mensajes Recibidos**, dar click en **Mensajes Recibidos** 
+
+![6](https://user-images.githubusercontent.com/77498360/115634803-f2c72700-a2cf-11eb-98f1-49b9fa01d639.png)
+
+![image](https://user-images.githubusercontent.com/77498360/115634638-a1b73300-a2cf-11eb-8ed9-de09738293e8.png)
 
