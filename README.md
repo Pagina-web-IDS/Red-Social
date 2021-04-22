@@ -147,7 +147,7 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 ![2](https://user-images.githubusercontent.com/77498360/115630475-ad9ff680-a2c9-11eb-93e3-cfad2f23c86b.png)
 
-• Se desplegara una barra donde daremos click nuevamente sobre **Mis Datos**
+• Se desplegará  una barra donde daremos click nuevamente sobre **Mis Datos**
 
 ![3](https://user-images.githubusercontent.com/77498360/115630715-1d15e600-a2ca-11eb-8d9f-e15c1d7f1ce0.png)
 
