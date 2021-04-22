@@ -4,9 +4,10 @@ Proyecto escolar
 
 Crearemos una red social con el fin de entender su procedimiento y funcionalidad.
 
-En ella podremos registranos, iniciar sesion, enviar mensajes, seguir a los usuarios, entre otras cosas.
+En ella podremos regístranos, iniciar sesión, enviar mensajes, seguir a los usuarios, entre otras cosas.
 
-Metodologia de uso: Control de versiones.
+Metodología de uso: Control de versiones.
+
 
 Documentación: Ubicado en la rama **Otium**.
 ```
@@ -22,13 +23,13 @@ Versiones de Base de datos: Ubicado en la rama **Base-de-datos**.
 ```
   •	Diagramas de versiones
 ```
-Versiones de Pagina Web: Ubicado en la rama **Pagina-Web**.
+Versiones de Página Web: Ubicado en la rama **Pagina-Web**.
 ```
   •	Imágenes de versiones
 
   •	Código de algunas versiones
 ```
-Codigo Actual de la pagina: Ubicado en **Codigo-Final**
+Código Actual de la  página: Ubicado en **Codigo-Final**
 ```
   •	Link del repositorio hacia el código Final para la ejecución 
 ```
@@ -77,7 +78,8 @@ Abrir el servidor Mongo.
 ![image](https://user-images.githubusercontent.com/77498360/115335089-24ba7b00-a162-11eb-85a5-c6fd2ed46e9d.png)
 
 Este proceso es para la primera vez en ejecutar el Proyecto.
-Despues solo se deben ejecutar estos comandos en su respectivo directorio:
+
+Después solo se deben ejecutar estos comandos en su respectivo directorio:
 ```
 •	npm start
 •	ng serve
@@ -93,38 +95,38 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 ### **Registrarse**
 ```
-• Todos los campos deben llenarse
-• No se aceptan Nicks y correos iguales
-• El correo debe ser valido
-  - No iniciar con mayúsculas
-  - Tener un provedor
-  - No usar caracteres especiales
+• Todos los campos deben llenarse.
+• No se aceptan Nicks y correos iguales.
+• El correo debe ser valido.
+  - No iniciar con mayúsculas.
+  - Tener un provedor.
+  - No usar caracteres especiales.
 ```
 ![image](https://user-images.githubusercontent.com/77498360/115337328-65b48e80-a166-11eb-927a-d390aede7826.png)
 
 
 ### **Iniciar sesión**
 
-• Todos los campos son obligatrios
+• Todos los campos son obligatorios.
 
-• Ingresar un Email ya registrado
+• Ingresar un Email ya registrado.
 
-• Ingresar correctamente la contraseña del usuario
+• Ingresar correctamente la contraseña del usuario.
 
 ![image](https://user-images.githubusercontent.com/77498360/115628262-01104580-a2c6-11eb-841d-ba12a62ef684.png)
 
-• Una vez realizado lo anterior hacer click en Enviar
+• Una vez realizado lo anterior hacer click en Enviar.
 
 ![image](https://user-images.githubusercontent.com/77498360/115628410-37e65b80-a2c6-11eb-83e9-6ad11c76d53f.png)
 
 
 ### **Perfil**
 
-• Podemos Ingresar a unestro perfil desde la pestaña **Home** al darle click sobre el recuadro Titulado: **Mi perfil**
+• Podemos Ingresar a nuestro perfil desde la pestaña **Home** al darle click sobre el recuadro Titulado: **Mi perfil**
 
 ![1](https://user-images.githubusercontent.com/77498360/115629107-4c772380-a2c7-11eb-8f6b-b7d6e211471d.png)
 
-• En este apartado se podrán ver el número de seguidores que tengas, número de publicaciones y número de publicaciones tuyas en tiempo real
+• En este apartado se podrán ver el número de seguidores que tengas, número de publicaciones y número de publicaciones tuyas en tiempo real.
 
 • Se podra ver tu **Nombre**, **Apellido** y **Estado actual**
 
@@ -135,13 +137,13 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 ![image](https://user-images.githubusercontent.com/77498360/115629611-52b9cf80-a2c8-11eb-9e67-f79b1764693d.png)
 
 
-• En la parte derecha se encontrara el apartado nombrado **Tus Datos** en el cual es un resumen de tu perfil ademas de tener el apartado para **Publicar**
+• En la parte derecha se encontrará el apartado nombrado **Tus Datos** en el cual es un resumen de tu perfil además de tener el apartado para **Publicar**
 
 ![image](https://user-images.githubusercontent.com/77498360/115629977-e7bcc880-a2c8-11eb-8283-1dcc4bb09abb.png)
 
 ### **Editar tus datos de Perfil**
 
-• Sobre la barra de navegacion ubicada en la parte superior derecha de la pagina dar **click sobre tu nombre**
+• Sobre la barra de navegación ubicada en la parte superior derecha de la página dar **click sobre tu nombre**
 
 ![2](https://user-images.githubusercontent.com/77498360/115630475-ad9ff680-a2c9-11eb-93e3-cfad2f23c86b.png)
 
@@ -168,7 +170,7 @@ link: https://www.youtube.com/watch?v=Rx7K1ISQjlM
 
 ![image](https://user-images.githubusercontent.com/77498360/115631551-aaa60580-a2cb-11eb-8390-a717a490378b.png)
 
-• Al finalizar para guardar la publicación solo es darle click sobre el boton **Publicar**
+• Al finalizar para guardar la publicación solo es darle click sobre el botón **Publicar**
 
 ![4](https://user-images.githubusercontent.com/77498360/115631865-46d00c80-a2cc-11eb-90ee-e3ef9a9ab762.png)
 
